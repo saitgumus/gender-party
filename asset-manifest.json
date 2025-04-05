@@ -1,12 +1,12 @@
 {
   "files": {
     "main.css": "/gender-party/static/css/main.86d17b5a.css",
-    "main.js": "/gender-party/static/js/main.e9b51bd0.js",
+    "main.js": "/gender-party/static/js/main.097913b8.js",
     "static/js/437.d09f9afb.chunk.js": "/gender-party/static/js/437.d09f9afb.chunk.js",
     "index.html": "/gender-party/index.html"
   },
   "entrypoints": [
     "static/css/main.86d17b5a.css",
-    "static/js/main.e9b51bd0.js"
+    "static/js/main.097913b8.js"
   ]
 }
